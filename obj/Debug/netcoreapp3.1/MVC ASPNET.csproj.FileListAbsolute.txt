@@ -1,0 +1,37 @@
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.exe
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.deps.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.dll
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.pdb
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.Views.dll
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\bin\Debug\netcoreapp3.1\MVC ASPNET.Views.pdb
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.RazorAssemblyInfo.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.RazorAssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.TagHelpers.input.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.TagHelpers.output.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.RazorCoreGenerate.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.RazorTargetAssemblyInfo.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.RazorTargetAssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.Views.pdb
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\staticwebassets\MVC ASPNET.StaticWebAssets.Manifest.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\staticwebassets\MVC ASPNET.StaticWebAssets.xml
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.dll
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.pdb
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.genruntimeconfig.cache
+C:\Users\unicor\OneDrive\Imagens\1°DM Lições\MVC ASPNET\obj\Debug\netcoreapp3.1\MVC ASPNET.csproj.CopyComplete
